@@ -1,7 +1,7 @@
 /**
  * This RingBuffer object . . .
  * 
- * @author  
+ * @AarthiKoripelly  
  * @version 
  */
 public class RingBuffer extends Exception
