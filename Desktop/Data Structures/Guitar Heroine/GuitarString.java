@@ -2,7 +2,7 @@ import java.util.*;
 /**
  * This GuitarString object . . .
  * 
- * @author  
+ * @AarthiKoripelly  
  * @version 
  */
 public class GuitarString 
